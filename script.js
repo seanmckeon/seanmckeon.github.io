@@ -6,10 +6,9 @@ window.onload = function() {
 
 // Array of quotes
 let quotes = [
-"The only way to do great work is to love what you do. - Steve Jobs",
-"Believe you can and you're halfway there. - Theodore Roosevelt",
-"Don't watch the clock; do what it does. Keep going. - Sam Levenson",
-"You miss 100% of the shots you don’t take. - Wayne Gretzky",
+“Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac? — George Carlin",
+"I have many leather-bound books and my apartment smells of rich mahogany - Ron Burgundy",
+"You miss 100% of the shots you don’t take. - Wayne Gretzky - Michael Scott",
 
 ];
 
