@@ -6,9 +6,9 @@ window.onload = function() {
 
 // Array of quotes
 let quotes = [
-“Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac? — George Carlin",
-"I have many leather-bound books and my apartment smells of rich mahogany - Ron Burgundy",
-"You miss 100% of the shots you don’t take. - Wayne Gretzky - Michael Scott",
+“Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac? — George Carlin“,
+“I have many leather-bound books and my apartment smells of rich mahogany - Ron Burgundy“,
+“You miss 100% of the shots you don’t take. - Wayne Gretzky - Michael Scott“,
 
 ];
 
